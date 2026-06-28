@@ -1,4 +1,3 @@
-# main.py
 import os
 from contextlib import asynccontextmanager
 from fastapi import FastAPI, HTTPException
@@ -10,7 +9,7 @@ from langchain_core.runnables.history import RunnableWithMessageHistory
 from dotenv import load_dotenv
 
 # Import the decoupled LangChain logic from our other file
-from llm_chain import create_base_chain
+from langchain_chat.llm_chain import create_base_chain
 
 load_dotenv()
 

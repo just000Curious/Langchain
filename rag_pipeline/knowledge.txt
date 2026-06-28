@@ -1,0 +1,23 @@
+## Technical Brief: Compact Stellar Remnants (Dataset ID: AST-2026-X1)## 1. Classification Framework
+Stellar evolution dictates that the final evolutionary state of a massive star depends strictly on its core mass at the time of fuel exhaustion. This boundary is defined by two primary limits:
+
+* The Chandrasekhar Limit: Exactly 1.44 solar masses ($M_\odot$). Cores below this threshold become white dwarfs.
+* The Tolman-Oppenheimer-Volkoff (TOV) Limit: Approximately 2.17 to 3.0 solar masses ($M_\odot$). This represents the absolute upper bound for a non-rotating neutron star before gravitational collapse forces it into a black hole.
+
+## 2. Mechanics of Neutron Stars
+Neutron stars are supported against gravitational collapse exclusively by neutron degeneracy pressure—a quantum mechanical effect arising from the Pauli Exclusion Principle.
+
+* Dimensional Metrics: A standard neutron star possesses a radius of precisely 11 to 13 kilometres, meaning its entire mass is constrained within a volume smaller than a metropolitan city.
+* Material Density: The nuclear density of the core reaches $4 \times 10^{17}$ kilograms per cubic metre. A single standard sugar-cube-sized volume (1 cubic centimetre) of this material yields a mass of 400 million tonnes.
+* Structural Composition: The outer crust is composed of a rigid lattice of ionized iron nuclei ($^{56}\text{Fe}$). Beneath this lies the inner crust, where "neutron drip" occurs, transitioning into a core of superfluid neutrons and superconducting protons.
+* Subtype Rotational Mechanics:
+* Pulsars: Highly magnetized remnants emitting directed beams of electromagnetic radiation. The fastest known millisecond pulsar, PSR J1748-2446ad, rotates at 716 Hertz (cycles per second).
+   * Magnetars: Characterized by magnetic field strengths exceeding $10^{11}$ Tesla. The decay of these fields powers high-energy X-ray and gamma-ray flares.
+
+## 3. Physics of Black Holes
+When a stellar core exceeds the TOV limit, gravity overcomes all known degeneracy pressures, resulting in a spacetime singularity.
+
+* Boundary Dynamics: The physical boundary of a non-rotating (Schwarzschild) black hole is the Event Horizon. The radius of this boundary is the Schwarzschild Radius ($R_s$), calculated via the formula: $R_s = \frac{2GM}{c^2}$.
+* The Ergosphere: Rotating (Kerr) black holes possess an outer region called the ergosphere. Within this oblate spheroidal region, the fabric of spacetime itself is dragged in the direction of the black hole's rotation, a phenomenon known as frame-dragging or the Lense-Thirring effect. Matter in the ergosphere can still escape if it undergoes the Penrose Process to gain energy.
+* Tidal Disruption Forces: As matter approaches a stellar-mass black hole, the differential gravitational acceleration between the front and back of the object causes extreme vertical stretching. This specific phenomenon is mathematically categorized as a Tidal Disruption Event (TDE), colloquially known as spaghettification.
+* Thermodynamic Evaporation: Black holes emit blackbody radiation due to quantum effects near the event horizon. This Hawking Radiation dictates that the temperature of a black hole is inversely proportional to its mass ($T \propto \frac{1}{M}$). Consequently, smaller black holes evaporate exponentially faster than supermassive ones.
